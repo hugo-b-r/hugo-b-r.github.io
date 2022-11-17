@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Des sortes d&#39;idées...</title>
+    <link>http://hugo-b-r.github.io/posts/</link>
+    <description>Recent content in Posts on Des sortes d&#39;idées...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 17 Nov 2022 20:15:15 +0100</lastBuildDate><atom:link href="http://hugo-b-r.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Echec</title>
+      <link>http://hugo-b-r.github.io/posts/echec/</link>
+      <pubDate>Thu, 17 Nov 2022 20:15:15 +0100</pubDate>
+      
+      <guid>http://hugo-b-r.github.io/posts/echec/</guid>
+      <description> L&amp;rsquo;échec n&amp;rsquo;est même pas le prix à payer mais seulement un risque à prendre pour réussir.
+ </description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://hugo-b-r.github.io/posts/hello-world/</link>
+      <pubDate>Tue, 15 Nov 2022 21:44:11 +0100</pubDate>
+      
+      <guid>http://hugo-b-r.github.io/posts/hello-world/</guid>
+      <description>Bonjour, monde !</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Ideen...</title>
+    <link>http://hugo-b-r.github.io/de/posts/</link>
+    <description>Recent content in Posts on Ideen...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 17 Nov 2022 20:17:20 +0100</lastBuildDate><atom:link href="http://hugo-b-r.github.io/de/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Misserfolg</title>
+      <link>http://hugo-b-r.github.io/de/posts/echec/</link>
+      <pubDate>Thu, 17 Nov 2022 20:17:20 +0100</pubDate>
+      
+      <guid>http://hugo-b-r.github.io/de/posts/echec/</guid>
+      <description> Misserfolg ist nicht einmal der Preis, sondern nur ein Risiko für den Erfolg.
+ </description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://hugo-b-r.github.io/de/posts/hello-world/</link>
+      <pubDate>Wed, 16 Nov 2022 16:35:48 +0100</pubDate>
+      
+      <guid>http://hugo-b-r.github.io/de/posts/hello-world/</guid>
+      <description>Hallo, welt !</description>
+    </item>
+    
+  </channel>
+</rss>
